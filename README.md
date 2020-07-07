@@ -47,10 +47,11 @@ I have Duel boot  Mac/windows (for Gaming)
 NOTE:
 I don't replace any part of my laptop
 so you can enjoy all features
-
+<h2>
 Whats working ?! <br>
 EVERYTHING !
------------------------------  <h2>
+  <h2>
+-----------------------------  <h4>
 Wifi <br>
 Sound <br>
 Graphics <br>
@@ -67,4 +68,4 @@ Handoff <br>
 iMessage <br>
 
 
-</h2>
+</h4>
