@@ -69,3 +69,22 @@ iMessage <br>
 
 
 </h4>
+
+
+
+<h2>
+  2020/7/7
+  </h2>
+  
+  <h3>
+  All kext up to date <br>
+  Do not update Applealc its make the cpu heatup <br>
+  you dont even need the new one .. this verison work perfct =) <br>
+  clover up to date 5119 <br>
+  im using catalina 10.15 but i think you can update to 10.15.5 without any problem (tell me if happen ^_^)
+  
+  
+  
+  </h3>
+  
+
