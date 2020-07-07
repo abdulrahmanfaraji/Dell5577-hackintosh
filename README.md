@@ -48,9 +48,9 @@ NOTE:
 I don't replace any part of my laptop
 so you can enjoy all features
 
-Whats working ?!
+Whats working ?! <br>
 EVERYTHING !
------------------------------
+-----------------------------  <h2>
 Wifi <br>
 Sound <br>
 Graphics <br>
@@ -65,3 +65,6 @@ Audio Jack (Fully Working) <br>
 Wireless <br>
 Handoff <br>
 iMessage <br>
+
+
+</h2>
