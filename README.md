@@ -86,6 +86,7 @@ iMessage <br>
   
   <h3>
   All kext up to date <br>
+  you need to unzip intel-wifi-helper-master and add kext to L/E then rebuild cache and repaier permissions (u can use hackintool)
   Do not update Applealc its make the cpu heatup <br>
   you dont even need the new one .. this verison work perfct =) <br>
   clover up to date 5119 <br>
