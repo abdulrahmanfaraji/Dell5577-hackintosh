@@ -48,9 +48,9 @@ NOTE:
 I don't replace any part of my laptop
 so you can enjoy all features
 
-![stack Overflow](http://lmsotfy.com/so.png)
 
-! [alt text](https://i.ibb.co/twRNtz1/Screenshot-2020-07-10-at-8-53-45-AM.png)
+
+![alt text](https://i.ibb.co/twRNtz1/Screenshot-2020-07-10-at-8-53-45-AM.png)
 [alt text](https://ibb.co/9rJvmHM)
 [alt text](https://ibb.co/6BZhFfV)
 
