@@ -48,15 +48,10 @@ NOTE:
 I don't replace any part of my laptop
 so you can enjoy all features
 
+[alt text](https://ibb.co/20JLQSp)
+[alt text](https://ibb.co/9rJvmHM)
+[alt text](https://ibb.co/6BZhFfV)
 
-<img src="https://ibb.co/20JLQSp" 
-alt="1!" />
-
-<img src="https://ibb.co/9rJvmHM" 
-alt="2!" />
-
-<img src="https://ibb.co/6BZhFfV" 
-alt="3!" />
 
 <h2>
 Whats working ?! <br>
