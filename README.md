@@ -49,7 +49,7 @@ I don't replace any part of my laptop
 so you can enjoy all features
 
 
-![1](https://i.ibb.co/ZYxtY5y/Screenshot-2020-07-10-at-9-05-50-AM.png)
+![1]()
 ![2](https://i.ibb.co/twRNtz1/Screenshot-2020-07-10-at-8-53-45-AM.png)
 ![3](https://i.ibb.co/tXhfDWk/Screenshot-2020-07-10-at-8-53-04-AM.png)
 
