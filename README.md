@@ -49,10 +49,9 @@ I don't replace any part of my laptop
 so you can enjoy all features
 
 
-
-![alt text](https://i.ibb.co/twRNtz1/Screenshot-2020-07-10-at-8-53-45-AM.png)
-[alt text](https://ibb.co/9rJvmHM)
-[alt text](https://ibb.co/6BZhFfV)
+![1](https://i.ibb.co/ZYxtY5y/Screenshot-2020-07-10-at-9-05-50-AM.png)
+![2](https://i.ibb.co/twRNtz1/Screenshot-2020-07-10-at-8-53-45-AM.png)
+![3](https://i.ibb.co/tXhfDWk/Screenshot-2020-07-10-at-8-53-04-AM.png)
 
 
 <h2>
