@@ -49,10 +49,26 @@ I don't replace any part of my laptop
 so you can enjoy all features
 
 
-<img src="https://i.ibb.co/g7Wx27w/Screenshot-2020-07-10-at-9-40-34-AM.png" alt="pic1" style="max-width:100%;">
-<img src="https://i.ibb.co/v32mRrR/Screenshot-2020-07-10-at-9-08-28-AM.png" alt="pic1" style="max-width:100%;">
-<img src="https://i.ibb.co/twRNtz1/Screenshot-2020-07-10-at-8-53-45-AM.png" alt="pic1" style="max-width:100%;">
-<img src="https://i.ibb.co/tXhfDWk/Screenshot-2020-07-10-at-8-53-04-AM.png" alt="pic1" style="max-width:100%;">
+
+<table>
+<thead>
+<tr>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mojave</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalina</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg"><img src="https://i.ibb.co/g7Wx27w/Screenshot-2020-07-10-at-9-40-34-AM.png" alt="pic1" style="max-width:100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg"><img src="https://i.ibb.co/v32mRrR/Screenshot-2020-07-10-at-9-08-28-AM.png" alt="pic2" style="max-width:100%;"></a></td>
+  <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg"><img <img src="https://i.ibb.co/twRNtz1/Screenshot-2020-07-10-at-8-53-45-AM.png" alt="pic2" style="max-width:100%;"></a></td>
+  <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg"><img src="https://i.ibb.co/tXhfDWk/Screenshot-2020-07-10-at-8-53-04-AM.png"  alt="pic2" style="max-width:100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+
+
 
 <h2>
 Whats working ?! <br>
