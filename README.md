@@ -11,7 +11,7 @@
 <tbody>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">operating system:</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MacOS Ctalina </font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MacOS Catalina </font></font></td>
 </tr>
 <tr>
 <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">processor:</font></font></td>
