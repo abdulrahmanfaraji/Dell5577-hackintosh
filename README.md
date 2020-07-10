@@ -1,5 +1,5 @@
 # Hackintosh-Dell5577
-<h1>Ultimate clover for dell 5577
+<h1>Ultimate clover guide for dell 5577
 </h1>
 <table>
 <thead>
