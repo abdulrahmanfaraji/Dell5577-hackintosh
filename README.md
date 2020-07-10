@@ -51,12 +51,7 @@ so you can enjoy all features
 
 
 <table>
-<thead>
-<tr>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mojave</font></font></th>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Catalina</font></font></th>
-</tr>
-</thead>
+
 <tbody>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg"><img src="https://i.ibb.co/g7Wx27w/Screenshot-2020-07-10-at-9-40-34-AM.png" alt="pic1" style="max-width:100%;"></a></td>
