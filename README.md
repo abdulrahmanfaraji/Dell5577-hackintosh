@@ -47,6 +47,17 @@ I have Duel boot  Mac/windows (for Gaming)
 NOTE:
 I don't replace any part of my laptop
 so you can enjoy all features
+
+
+<img src="https://ibb.co/20JLQSp" 
+alt="1!" />
+
+<img src="https://ibb.co/9rJvmHM" 
+alt="2!" />
+
+<img src="https://ibb.co/6BZhFfV" 
+alt="3!" />
+
 <h2>
 Whats working ?! <br>
 EVERYTHING !
