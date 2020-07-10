@@ -49,12 +49,11 @@ I don't replace any part of my laptop
 so you can enjoy all features
 
 
-
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg"><img src="https://github.com/Wmyaaa/Dell5577-hackintosh/raw/master/pic/download.jpg" alt="pic1" style="max-width:100%;"></a>
 <table>
 
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg"><img src="https://i.ibb.co/g7Wx27w/Screenshot-2020-07-10-at-9-40-34-AM.png" alt="pic1" style="max-width:100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg"><img src="https://i.ibb.co/v32mRrR/Screenshot-2020-07-10-at-9-08-28-AM.png" alt="pic2" style="max-width:100%;"></a></td>
   <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg"><img <img src="https://i.ibb.co/twRNtz1/Screenshot-2020-07-10-at-8-53-45-AM.png" alt="pic2" style="max-width:100%;"></a></td>
   <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg"><img src="https://i.ibb.co/tXhfDWk/Screenshot-2020-07-10-at-8-53-04-AM.png"  alt="pic2" style="max-width:100%;"></a></td>
